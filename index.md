@@ -44,6 +44,6 @@ Nuestro trabajo se desarrolla principalmente de manera virtual y colaborativa, l
 	
 Si deseas participar en nuestras actividades, colaborar en alguno de nuestros proyectos o conocer más sobre nuestro trabajo, te invitamos a explorar las distintas secciones del sitio o ponerte en contacto con nuestro equipo.
 
-[Conocer al equipo →](/nosotros/equipo/)
+[Conocer al equipo →](/fhp/nosotros/equipo/)
 
-[Contactarnos →](/nosotros/contacto/)
+[Contactarnos →](/fhp/nosotros/contacto/)
