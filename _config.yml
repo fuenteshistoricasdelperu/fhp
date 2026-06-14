@@ -55,7 +55,7 @@ author:
       url: "https://github.com/fuenteshistoricasdelperu"
 
 # Build settings
-theme: minimal-mistakes-jekyll
+theme: minima
 minimal_mistakes_skin: "default"
 
 # -----------------------------------------------------------------------------
