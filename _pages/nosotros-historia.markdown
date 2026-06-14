@@ -1,0 +1,19 @@
+---
+title: "Historia"
+permalink: /nosotros/historia/
+layout: single
+author_profile: false
+sidebar:
+  nav: "nosotros"
+---
+**Fuentes Históricas del Perú: Una iniciativa de jóvenes historiadores que busca visibilizar nuestros testimonios históricos.**
+
+En marzo de 2020, con la irrupción del Covid-19 en nuestro país y la implementación del aislamiento social obligatorio, las bibliotecas y archivos suspendieron por completo la atención presencial a los usuarios. Aunque algunas de estas instituciones, como la Biblioteca Nacional del Perú y el Archivo General de la Nación, retomaron sus funciones después de varios meses en la nueva normalidad, aún ofrecían un servicio limitado a un número determinado de usuarios y solicitudes diarias. Esta medida se justifica debido a la persistente presencia de la pandemia.
+
+En respuesta a esta situación, el ámbito virtual emergió como un recurso vital para mantener la continuidad de las investigaciones. Los usuarios contaban con una variedad de repositorios digitales disponibles, tanto a nivel nacional como internacional. Asimismo, la digitalización brindó beneficios no solo a los investigadores, sino también a docentes, estudiantes y al público en general. Esto ha ayudado a superar obstáculos geográficos, temporales y burocráticos, como el requisito de obtener un «carnet de investigador». Sin embargo, el rápido avance en la digitalización de materiales documentales conlleva el riesgo de una saturación de información, lo que puede resultar contraproducente. En otras palabras, la existencia de una gran cantidad de información dispersa en internet sin una organización adecuada puede dificultar su visibilidad y acceso para un público no especializado.
+
+En este contexto, marcado por la pandemia de Covid-19 y el acelerado proceso de digitalización, surgió el proyecto «Fuentes Históricas del Perú» el 24 de abril de 2020. Esta iniciativa, liderada por jóvenes historiadores de manera voluntaria, tiene como objetivo localizar, sistematizar y poner en relieve recursos históricos digitalizados de relevancia para el estudio de la historia peruana. Estos recursos abarcan una amplia gama, incluyendo periódicos, revistas, libros, folletos, fotografías, audios y videos. Los integrantes de este equipo provienen de instituciones superiores como la Universidad Nacional Mayor de San Marcos, la Universidad Nacional de Trujillo, la Universidad Nacional Federico Villarreal y la Pontificia Universidad Católica del Perú. Asimismo, si bien surgió como un proyecto impulsado por historiadores, el equipo ha aprovechado el impacto beneficioso de la multidisciplinariedad, compartiendo labores con historiadores del arte, arqueólogos, diseñadores gráficos y médicos.
+
+En 2022, extendimos nuestra presencia al ámbito editorial mediante la presentación del *Catálogo de planos del Cementerio Presbítero Matías Maestro (Lima, 1816-2012)*. Este compilado, elaborado por Manuel Pablo Marcos Percca, reúne un conjunto de 16 representaciones cartográficas confeccionadas entre los años 1816 y 2012, todas relacionadas con el Cementerio General de Lima, el primer camposanto de la ciudad. Esta publicación se integra dentro de nuestra serie «Catálogos», una iniciativa cuyo objetivo primordial radica en proporcionar descripciones y clasificaciones preliminares de fuentes históricas que han sido cuidadosamente sistematizadas. Este esfuerzo tiene la finalidad de brindar una perspectiva que permita vislumbrar nuevas áreas de investigación en los campos de la Historia y las Ciencias Sociales.
+
+En 2025, el historiador Paulo Drinot entrevistó a la Junta Directiva de Fuentes Históricas del Perú, conversación que fue publicada en la revista [*Latin American Research Review*](https://doi.org/10.1017/lar.2025). En esta publicación, se hizo un balance de nuestras primeras actividades.

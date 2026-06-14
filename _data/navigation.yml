@@ -1,0 +1,141 @@
+# -----------------------------------------------------------------------------
+# NAVEGACIÓN PRINCIPAL
+# -----------------------------------------------------------------------------
+# Los enlaces aparecerán en la barra superior
+main:
+  - title: "Inicio"
+    url: /
+  - title: "Proyectos"
+    url: /proyectos/
+  - title: "Servicios"
+    url: /servicios/
+  - title: "Recursos"
+    url: /recursos/
+  - title: "Actividades"
+    url: /actividades/
+  - title: "Nosotros"
+    url: /nosotros/
+
+# -----------------------------------------------------------------------------
+# SIDEBAR – Proyectos
+# -----------------------------------------------------------------------------
+proyectos:
+  - title: "Investigación y organización documental"
+    url: /proyectos/investigacion/
+  - title: "Plataformas y proyectos digitales"
+    url: /proyectos/plataformas/
+  - title: "Proyectos editoriales"
+    url: /proyectos/editorial/
+    
+# -----------------------------------------------------------------------------
+# SIDEBAR – Servicios
+# -----------------------------------------------------------------------------
+servicios:
+  - title: "Investigación histórica y documental"
+    url: /servicios/investigacion/
+  - title: "Digitalización de documentos"
+    url: /Servicios/digitalizacion/
+  - title: "Proyectos editoriales"
+    url: /servicios/organizacion/
+  - title: "Capacitación y formación"
+    url: /servicios/capacitacion/
+  - title: "Asesoría académica y técnica"
+    url: /servicios/asesoria/
+# -----------------------------------------------------------------------------
+# SIDEBAR – RECURSOS
+# -----------------------------------------------------------------------------
+recursos:
+  - title: "Nuestras plataformas"
+    url: /recursos/plataformas/
+  - title: "Herramientas digitales"
+    url: /recursos/herramientas/
+  - title: "Proyectos recomendados"
+    url: /recursos/recomendados/
+    
+# -----------------------------------------------------------------------------
+# SIDEBAR – Actividadess
+# -----------------------------------------------------------------------------
+actividades:
+  - title: "Formación y divulgación"
+    url: /actividades/formacion/
+  - title: "Presentaciones y participación académica"
+    url: /actividades/participacion/
+  - title: "Notas de prensa y difusión pública"
+    url: /actividades/prensa/
+  - title: "Agenda"
+    url: /actividades/agenda/
+
+# -----------------------------------------------------------------------------
+# SIDEBAR – Nosotros
+# -----------------------------------------------------------------------------
+nosotros:
+  - title: "Historia"
+    url: /nosotros/historia/
+  - title: "Metodología"
+    url: /nosotros/metodologia/
+  - title: "Equipo"
+    url: /nosotros/equipo/
+  - title: "Colaboradores"
+    url: /nosotros/colaboradores/
+  - title: "Contacto"
+    url: /nosotros/contacto/
+    
+
+# -----------------------------------------------------------------------------
+# SIDEBAR – Nosotros
+# -----------------------------------------------------------------------------
+equipo:
+  - title: "Junta Directiva"
+    children:
+      - title: "Jair Miranda Tamayo"
+        url: /jair-miranda/
+      - title: "Isabel Quispe Tacuse"
+        url: /isabel-quispe/
+      - title: "Carlos Paredes Hernández"
+        url: /carlos-paredes/
+      - title: "Erika Caballero Liñan"
+        url: /erika-caballero/
+      - title: "Daniel Medina Valdez"
+        url: /daniel-medina/    
+        
+  - title: "Equipo de Contenidos"
+    children:
+      - title: "Vanessa Albrecht Requejo"
+        url: /vanessa-albrecht/
+      - title: "Fernanda Fernández Guayas"
+        url: /fernanda-fernandez/  
+      - title: "Andre García Espinoza"
+        url: /andre-garcia/
+      - title: "Julissa Huayanay Leyva"
+        url: /julisa-huayanay/
+      - title: "Valquiria Montes Cuchachi"
+        url: /valquiria-montes/        
+        
+  - title: "Equipo de Investigación"
+    children:
+      - title: "Francisco Camacho Mejía"
+        url: /francisco-camacho/   
+      - title: "Yenisa Guizado Mercado"
+        url: /yenisa-guizado/
+      - title: "Elizabeth Huallpa Chayña"
+        url: /elizabeth-huallpa/
+      - title: "Ruth Huascar Mamani"
+        url: /ruth-huascar/
+      - title: "Ferdinand Huerta Anaya"
+        url: /ferdinand-huerta/
+      - title: "Javier López Norabuena"
+        url: /javier-lopez/  
+      - title: "Alonso Luyo Soto"
+        url: /alonso-luyo/  
+      - title: "Manuel Marcos Percca"
+        url: /manuel-marcos/
+      - title: "Pablo Mena Hinostroza"
+        url: /pablo-mena/
+      - title: "Eric Meza Chávez"
+        url: /eric-meza/
+      - title: "Sergio Salgado Calderon"
+        url: /sergio-salgado/  
+      - title: "Claudia Soto"
+        url: /claudia-soto/
+      - title: "Diego Vásquez Ayala"
+        url: /diego-vasquez/
