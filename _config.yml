@@ -55,7 +55,8 @@ author:
       url: "https://github.com/fuenteshistoricasdelperu"
 
 # Build settings
-theme: minima
+remote_theme: "mmistakes/minimal-mistakes"
+
 minimal_mistakes_skin: "default"
 
 # -----------------------------------------------------------------------------
@@ -75,6 +76,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-include-cache
 
 paginate: 7  # Número de posts por página
 paginate_path: "/page:num/"
