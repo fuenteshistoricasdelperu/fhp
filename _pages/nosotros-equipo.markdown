@@ -34,8 +34,6 @@ Nuestro equipo reúne integrantes ubicados en distintas regiones del Perú y del
 ### Equipo de Contenidos
 - [**Vanessa Albrecht Requejo**](/fhp/vanessa-albrecht/)
   
-- [**Fernanda Fernández Guayas**](/fhp/fernanda-fernandez/)
-  
 - [**Andre García Espinoza**](/fhp/andre-garcia/)
 
 - [**Julissa Huayanay Leyva**](/fhp/julisa-huayanay/)
